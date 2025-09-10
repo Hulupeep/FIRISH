@@ -309,3 +309,8 @@ tráthnóna,noun,evening,soir,tráthnóna,4,0.6,0.7,0.1,"Late day, Irish-derived
 uaigneas,noun,loneliness,solitude,uaigneas,5,0.8,0.8,0.1,"State of being alone, Irish-derived","uaigneas mór (great loneliness) | mothú uaignis (feeling lonely)"
 úll,noun,apple,pomme,úll,4,0.6,0.6,0.1,"Fruit, Irish-derived","úll dearg (red apple) | ag ithe úll (eating an apple)"
 úsáid,verb,use,utiliser,úsáid,4,0.5,0.5,0.1,"Employ/utilize, Irish-derived","ag úsáid (using) | úsáid go maith (use well)"
+trí,number,three,trois,trí,3,0.4,0.3,0.1,"Number 3, Irish-derived","trí dhuine (three people) | trí lá (three days)"
+ceathair,number,four,quatre,ceathair,4,0.6,0.5,0.1,"Number 4, Irish-derived","ceathair teach (four houses) | ceathair uair (four times)"
+cúig,number,five,cinq,cúig,4,0.6,0.5,0.1,"Number 5, Irish-derived","cúig duine (five people) | cúig euro (five euros)"
+sé,number,six,six,sé,3,0.4,0.3,0.1,"Number 6, Irish-derived","sé lá (six days) | sé huaire (six hours)"
+ochtar,number,eight,huit,ochtar,4,0.6,0.5,0.1,"Number 8 (people), Irish-derived","ochtar páistí (eight children) | ochtar fear (eight men)"

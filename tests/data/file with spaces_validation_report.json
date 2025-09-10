@@ -1,0 +1,102 @@
+{
+  "validation_timestamp": "2025-09-10T19:52:58.304303",
+  "files": {
+    "csv_path": "tests/data/file with spaces.csv",
+    "schema_path": "data/schema.json"
+  },
+  "summary": {
+    "total_entries": 10,
+    "total_errors": 4,
+    "total_warnings": 46,
+    "total_issues": 50,
+    "validation_passed": false
+  },
+  "statistics": {
+    "unique_ids": 10,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "invalid_values": 4,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 3,
+    "categories": {
+      "color": 2,
+      "quality": 2,
+      "dimension": 2,
+      "health": 1,
+      "existence": 1,
+      "emotion": 1,
+      "size": 1
+    },
+    "parts_of_speech": {
+      "adjective": 7,
+      "noun": 3
+    },
+    "difficulty_distribution": {
+      "1": 2,
+      "2": 4,
+      "3": 3,
+      "4": 1
+    },
+    "frequency_distribution": {
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 2
+    }
+  },
+  "errors": [
+    "[ERROR] | INVALID_PATTERN: | Row 3 | Field 'pronunciation' | Value doesn't match required pattern: ^[/\\[\\]a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüýɪɛɔʊʌəɑɒɜːɪəeɪaɪɔɪaʊəʊɪəeəʊəɑːɔːiːuːɜːɪəɛəʊəɒəɪəeəɑəɔɒˠˤˀʲʷʰʲˠˌˈːˑ̪̩̯̥̰̼̃̄̆̇̌̀́̂̌'\\s-]+$ | Value: '/ɡɾaː/'",
+    "[ERROR] | INVALID_PATTERN: | Row 7 | Field 'pronunciation' | Value doesn't match required pattern: ^[/\\[\\]a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüýɪɛɔʊʌəɑɒɜːɪəeɪaɪɔɪaʊəʊɪəeəʊəɑːɔːiːuːɜːɪəɛəʊəɒəɪəeəɑəɔɒˠˤˀʲʷʰʲˠˌˈːˑ̪̩̯̥̰̼̃̄̆̇̌̀́̂̌'\\s-]+$ | Value: '/oɫk/'",
+    "[ERROR] | INVALID_PATTERN: | Row 9 | Field 'pronunciation' | Value doesn't match required pattern: ^[/\\[\\]a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüýɪɛɔʊʌəɑɒɜːɪəeɪaɪɔɪaʊəʊɪəeəʊəɑːɔːiːuːɜːɪəɛəʊəɒəɪəeəɑəɔɒˠˤˀʲʷʰʲˠˌˈːˑ̪̩̯̥̰̼̃̄̆̇̌̀́̂̌'\\s-]+$ | Value: '/ɡʲaːɾˠ/'",
+    "[ERROR] | INVALID_PATTERN: | Row 10 | Field 'pronunciation' | Value doesn't match required pattern: ^[/\\[\\]a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüýɪɛɔʊʌəɑɒɜːɪəeɪaɪɔɪaʊəʊɪəeəʊəɑːɔːiːuːɜːɪəɛəʊəɒəɪəeəɑəɔɒˠˤˀʲʷʰʲˠˌˈːˑ̪̩̯̥̰̼̃̄̆̇̌̀́̂̌'\\s-]+$ | Value: '/moːɾˠ/'"
+  ],
+  "warnings": [
+    "[WARNING] | EXAMPLE_MISMATCH: | Row 2 | Field 'example_firish' | Firish word 'beatha' not found in example sentence | Value: 'Is breá liom mo bheatha'",
+    "[WARNING] | EXAMPLE_MISMATCH: | Row 5 | Field 'example_firish' | Firish word 'bán' not found in example sentence | Value: 'Tá léine bhán uirthi'",
+    "[WARNING] | EXAMPLE_MISMATCH: | Row 7 | Field 'example_firish' | Firish word 'olc' not found in example sentence | Value: 'Tá droch-aimsir ann'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'related_words' | Referenced word 'folláine' not found in dictionary | Value: 'folláine'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'synonyms' | Referenced word 'folláine' not found in dictionary | Value: 'folláine'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'antonyms' | Referenced word 'easpa sláinte' not found in dictionary | Value: 'easpa sláinte'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'antonyms' | Referenced word 'tinneas' not found in dictionary | Value: 'tinneas'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'related_words' | Referenced word 'saol' not found in dictionary | Value: 'saol'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'related_words' | Referenced word 'maireachtáil' not found in dictionary | Value: 'maireachtáil'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'synonyms' | Referenced word 'saol' not found in dictionary | Value: 'saol'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'synonyms' | Referenced word 'maireachtáil' not found in dictionary | Value: 'maireachtáil'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'antonyms' | Referenced word 'bás' not found in dictionary | Value: 'bás'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 2 | Field 'antonyms' | Referenced word 'deireadh' not found in dictionary | Value: 'deireadh'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'related_words' | Referenced word 'cion' not found in dictionary | Value: 'cion'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'related_words' | Referenced word 'searc' not found in dictionary | Value: 'searc'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'synonyms' | Referenced word 'cion' not found in dictionary | Value: 'cion'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'synonyms' | Referenced word 'searc' not found in dictionary | Value: 'searc'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'antonyms' | Referenced word 'fuath' not found in dictionary | Value: 'fuath'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 3 | Field 'antonyms' | Referenced word 'gráin' not found in dictionary | Value: 'gráin'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 4 | Field 'related_words' | Referenced word 'dorcha' not found in dictionary | Value: 'dorcha'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 4 | Field 'synonyms' | Referenced word 'dorcha' not found in dictionary | Value: 'dorcha'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 4 | Field 'antonyms' | Referenced word 'geal' not found in dictionary | Value: 'geal'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 5 | Field 'related_words' | Referenced word 'geal' not found in dictionary | Value: 'geal'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 5 | Field 'synonyms' | Referenced word 'geal' not found in dictionary | Value: 'geal'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 5 | Field 'antonyms' | Referenced word 'dorcha' not found in dictionary | Value: 'dorcha'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 6 | Field 'related_words' | Referenced word 'deas' not found in dictionary | Value: 'deas'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 6 | Field 'related_words' | Referenced word 'iontach' not found in dictionary | Value: 'iontach'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 6 | Field 'synonyms' | Referenced word 'deas' not found in dictionary | Value: 'deas'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 6 | Field 'synonyms' | Referenced word 'breá' not found in dictionary | Value: 'breá'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 6 | Field 'antonyms' | Referenced word 'dona' not found in dictionary | Value: 'dona'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 7 | Field 'related_words' | Referenced word 'dona' not found in dictionary | Value: 'dona'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 7 | Field 'related_words' | Referenced word 'droch' not found in dictionary | Value: 'droch'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 7 | Field 'synonyms' | Referenced word 'dona' not found in dictionary | Value: 'dona'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 7 | Field 'synonyms' | Referenced word 'droch' not found in dictionary | Value: 'droch'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 7 | Field 'antonyms' | Referenced word 'deas' not found in dictionary | Value: 'deas'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 8 | Field 'related_words' | Referenced word 'sínte' not found in dictionary | Value: 'sínte'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 8 | Field 'synonyms' | Referenced word 'sínte' not found in dictionary | Value: 'sínte'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 8 | Field 'antonyms' | Referenced word 'beag' not found in dictionary | Value: 'beag'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 9 | Field 'related_words' | Referenced word 'beag' not found in dictionary | Value: 'beag'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 9 | Field 'related_words' | Referenced word 'giorra' not found in dictionary | Value: 'giorra'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 9 | Field 'synonyms' | Referenced word 'beag' not found in dictionary | Value: 'beag'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 10 | Field 'related_words' | Referenced word 'ollmhór' not found in dictionary | Value: 'ollmhór'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 10 | Field 'related_words' | Referenced word 'ard' not found in dictionary | Value: 'ard'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 10 | Field 'synonyms' | Referenced word 'ollmhór' not found in dictionary | Value: 'ollmhór'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 10 | Field 'antonyms' | Referenced word 'beag' not found in dictionary | Value: 'beag'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 10 | Field 'antonyms' | Referenced word 'bídeach' not found in dictionary | Value: 'bídeach'"
+  ]
+}

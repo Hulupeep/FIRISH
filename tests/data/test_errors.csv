@@ -1,0 +1,6 @@
+id,firish,english,part_of_speech,category,definition
+invalid@id,test word,meaning,invalid_pos,category,definition
+word_duplicate,word,meaning,noun,test,definition
+word_duplicate,word2,meaning2,verb,test,definition2
+word_missing_required,,meaning,noun,test,definition
+word_too_long,$(printf 'a%.0s' {1..200}),meaning,noun,test,definition

@@ -1,0 +1,37 @@
+{
+  "validation_timestamp": "2025-09-10T19:52:58.436416",
+  "files": {
+    "csv_path": "tests/data/test_crossref.csv",
+    "schema_path": "data/schema.json"
+  },
+  "summary": {
+    "total_entries": 1,
+    "total_errors": 1,
+    "total_warnings": 2,
+    "total_issues": 3,
+    "validation_passed": false
+  },
+  "statistics": {
+    "unique_ids": 1,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "invalid_values": 1,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 0,
+    "categories": {
+      "test": 1
+    },
+    "parts_of_speech": {
+      "noun": 1
+    },
+    "difficulty_distribution": {},
+    "frequency_distribution": {}
+  },
+  "errors": [
+    "[ERROR] | INVALID_PATTERN: | Row 1 | Field 'firish' | Value doesn't match required pattern: ^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$ | Value: 'word1'"
+  ],
+  "warnings": [
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'related_words' | Referenced word 'nonexistent' not found in dictionary | Value: 'nonexistent'",
+    "[WARNING] | MISSING_CROSS_REFERENCE: | Row 1 | Field 'synonyms' | Referenced word 'missing_synonym' not found in dictionary | Value: 'missing_synonym'"
+  ]
+}

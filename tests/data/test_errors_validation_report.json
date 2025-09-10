@@ -1,0 +1,42 @@
+{
+  "validation_timestamp": "2025-09-10T19:52:58.040412",
+  "files": {
+    "csv_path": "tests/data/test_errors.csv",
+    "schema_path": "data/schema.json"
+  },
+  "summary": {
+    "total_entries": 5,
+    "total_errors": 6,
+    "total_warnings": 0,
+    "total_issues": 6,
+    "validation_passed": false
+  },
+  "statistics": {
+    "unique_ids": 4,
+    "duplicate_ids": 1,
+    "missing_required_fields": 1,
+    "invalid_values": 4,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 0,
+    "categories": {
+      "test": 4,
+      "category": 1
+    },
+    "parts_of_speech": {
+      "noun": 3,
+      "invalid_pos": 1,
+      "verb": 1
+    },
+    "difficulty_distribution": {},
+    "frequency_distribution": {}
+  },
+  "errors": [
+    "[ERROR] | MISSING_REQUIRED_VALUE: | Row 4 | Field 'firish' | Required field is empty",
+    "[ERROR] | INVALID_PATTERN: | Row 1 | Field 'id' | Value doesn't match required pattern: ^[a-zA-Z0-9_-]+$ | Value: 'invalid@id'",
+    "[ERROR] | INVALID_ENUM_VALUE: | Row 1 | Field 'part_of_speech' | Value not in allowed list: ['noun', 'verb', 'adjective', 'adverb', 'preposition', 'conjunction', 'interjection', 'pronoun', 'article', 'phrase', 'idiom'] | Value: 'invalid_pos'",
+    "[ERROR] | INVALID_PATTERN: | Row 3 | Field 'firish' | Value doesn't match required pattern: ^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$ | Value: 'word2'",
+    "[ERROR] | INVALID_PATTERN: | Row 5 | Field 'firish' | Value doesn't match required pattern: ^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$ | Value: '$(printf 'a%.0s' {1..200})'",
+    "[ERROR] | DUPLICATE_ID: | ID 'word_duplicate' appears 2 times"
+  ],
+  "warnings": []
+}

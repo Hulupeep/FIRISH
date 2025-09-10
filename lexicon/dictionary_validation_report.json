@@ -1,0 +1,28 @@
+{
+  "validation_timestamp": "2025-09-11T00:06:34.693250",
+  "files": {
+    "csv_path": "lexicon/dictionary.csv",
+    "schema_path": "lexicon/schema.json"
+  },
+  "summary": {
+    "total_entries": 315,
+    "total_errors": 0,
+    "total_warnings": 0,
+    "total_issues": 0,
+    "validation_passed": true
+  },
+  "statistics": {
+    "unique_ids": 0,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "invalid_values": 0,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 0,
+    "categories": {},
+    "parts_of_speech": {},
+    "difficulty_distribution": {},
+    "frequency_distribution": {}
+  },
+  "errors": [],
+  "warnings": []
+}

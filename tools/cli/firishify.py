@@ -77,7 +77,7 @@ class FirishConverter:
                         opacity_low=row['opacity_low'],
                         opacity_mid=row['opacity_mid'],
                         opacity_high=row['opacity_high'],
-                        category=row['category']
+                        category=row.get('category', row['pos'])
                     )
                     self.lexicon[entry.english] = entry
                     
@@ -119,12 +119,16 @@ class FirishConverter:
         if normalized in self.lexicon:
             entry = self.lexicon[normalized]
             
+            # Use opacity to select language based on EASE algorithm
             if opacity == 'low':
-                return entry.opacity_low
+                # Low opacity: prefer English (most familiar)
+                return entry.english if entry.english != normalized else entry.irish
             elif opacity == 'mid': 
-                return entry.opacity_mid
+                # Mid opacity: prefer French (intermediate complexity)
+                return entry.french if entry.french and entry.french != normalized else entry.irish
             elif opacity == 'high':
-                return entry.opacity_high
+                # High opacity: prefer Irish (maximum complexity)
+                return entry.irish if entry.irish and entry.irish != normalized else entry.french
                 
         # Handle Irish particles - always use them for opacity
         if normalized in self.irish_particles:

@@ -1,0 +1,36 @@
+{
+  "validation_timestamp": "2025-09-10T19:52:58.094712",
+  "files": {
+    "csv_path": "tests/data/test_duplicates.csv",
+    "schema_path": "data/schema.json"
+  },
+  "summary": {
+    "total_entries": 2,
+    "total_errors": 3,
+    "total_warnings": 0,
+    "total_issues": 3,
+    "validation_passed": false
+  },
+  "statistics": {
+    "unique_ids": 1,
+    "duplicate_ids": 1,
+    "missing_required_fields": 0,
+    "invalid_values": 2,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 0,
+    "categories": {
+      "test": 2
+    },
+    "parts_of_speech": {
+      "noun": 2
+    },
+    "difficulty_distribution": {},
+    "frequency_distribution": {}
+  },
+  "errors": [
+    "[ERROR] | INVALID_PATTERN: | Row 1 | Field 'firish' | Value doesn't match required pattern: ^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$ | Value: 'word1'",
+    "[ERROR] | INVALID_PATTERN: | Row 2 | Field 'firish' | Value doesn't match required pattern: ^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$ | Value: 'word2'",
+    "[ERROR] | DUPLICATE_ID: | ID 'dup_001' appears 2 times"
+  ],
+  "warnings": []
+}

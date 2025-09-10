@@ -1,0 +1,34 @@
+{
+  "validation_timestamp": "2025-09-10T19:52:58.163162",
+  "files": {
+    "csv_path": "tests/data/test_invalid_enum.csv",
+    "schema_path": "data/schema.json"
+  },
+  "summary": {
+    "total_entries": 1,
+    "total_errors": 1,
+    "total_warnings": 0,
+    "total_issues": 1,
+    "validation_passed": false
+  },
+  "statistics": {
+    "unique_ids": 1,
+    "duplicate_ids": 0,
+    "missing_required_fields": 0,
+    "invalid_values": 1,
+    "rating_inconsistencies": 0,
+    "example_mismatches": 0,
+    "categories": {
+      "test": 1
+    },
+    "parts_of_speech": {
+      "invalid_pos": 1
+    },
+    "difficulty_distribution": {},
+    "frequency_distribution": {}
+  },
+  "errors": [
+    "[ERROR] | INVALID_ENUM_VALUE: | Row 1 | Field 'part_of_speech' | Value not in allowed list: ['noun', 'verb', 'adjective', 'adverb', 'preposition', 'conjunction', 'interjection', 'pronoun', 'article', 'phrase', 'idiom'] | Value: 'invalid_pos'"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Core FIRISH vocabulary database",
+    "created": "2025-09-10",
+    "entries": 50
+  },
+  "vocabulary": {
+    "basic_verbs": {
+      "be": {
+        "firish": "be",
+        "variants": ["am", "is", "are"],
+        "emotional_forms": {
+          "be~certain": "truly am",
+          "be~questioning": "might be",
+          "be~hopeful": "aspire to be"
+        }
+      },
+      "go": {
+        "firish": "go",
+        "variants": ["travel", "journey", "walk"],
+        "emotional_forms": {
+          "go~eager": "rush towards",
+          "go~reluctant": "slowly move",
+          "go~peaceful": "flow gently"
+        }
+      },
+      "love": {
+        "firish": "love",
+        "variants": ["adore", "cherish", "care"],
+        "emotional_forms": {
+          "love~deep": "treasure deeply",
+          "love~new": "am drawn to",
+          "love~eternal": "hold sacred"
+        }
+      }
+    },
+    "nature_words": {
+      "water": {
+        "firish": "water",
+        "variants": ["stream", "river", "ocean"],
+        "cultural_context": "symbol of life and flow",
+        "emotional_forms": {
+          "water~calm": "still pond",
+          "water~wild": "rushing rapids",
+          "water~healing": "sacred spring"
+        }
+      },
+      "wind": {
+        "firish": "wind",
+        "variants": ["breeze", "gale", "air"],
+        "cultural_context": "messenger of change",
+        "emotional_forms": {
+          "wind~gentle": "soft breeze",
+          "wind~fierce": "howling gale",
+          "wind~mysterious": "whispering air"
+        }
+      },
+      "earth": {
+        "firish": "earth",
+        "variants": ["soil", "ground", "land"],
+        "cultural_context": "foundation and stability",
+        "emotional_forms": {
+          "earth~solid": "firm ground",
+          "earth~fertile": "rich soil",
+          "earth~ancient": "timeless stone"
+        }
+      }
+    },
+    "emotional_markers": {
+      "joy": ["bright", "radiant", "dancing", "singing"],
+      "sadness": ["heavy", "deep", "flowing", "gentle"],
+      "anger": ["fierce", "burning", "sharp", "thundering"],
+      "peace": ["still", "calm", "flowing", "soft"],
+      "love": ["warm", "glowing", "tender", "sacred"],
+      "fear": ["trembling", "dark", "cold", "sharp"],
+      "hope": ["rising", "bright", "reaching", "growing"]
+    }
+  }
+}

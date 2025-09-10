@@ -1,0 +1,11 @@
+id,firish,english,part_of_speech,category,definition,example_firish,example_english,pronunciation,difficulty,frequency,etymology,notes,related_words,synonyms,antonyms
+word_001,sláinte,health,noun,health,Physical and mental well-being,"Tá sláinte mhaith agam","I have good health",/ˈslaːn̪ˠtʲə/,3,8,From Irish 'sláinte' meaning health,Common greeting and toast,"beatha|folláine","folláine|beatha","easpa sláinte|tinneas"
+word_002,beatha,life,noun,existence,The condition that distinguishes living beings,"Is breá liom mo bheatha","I love my life",/ˈbʲahə/,4,9,From Irish 'beatha' meaning life,Fundamental concept,"saol|maireachtáil","saol|maireachtáil","bás|deireadh"
+word_003,grá,love,noun,emotion,Deep affection or caring for someone,"Tá grá agam duit","I love you",/ɡɾaː/,2,10,From Irish 'grá' meaning love,Universal emotion,"cion|searc","cion|searc","fuath|gráin"
+word_004,dubh,black,adjective,color,The darkest color; absence of light,"Tá hata dubh air","He has a black hat",/d̪ˠʊw/,2,7,From Irish 'dubh' meaning black,Basic color,"dorcha","dorcha","bán|geal"
+word_005,bán,white,adjective,color,The lightest color; presence of all colors,"Tá léine bhán uirthi","She has a white shirt",/baːn̪ˠ/,2,7,From Irish 'bán' meaning white,Basic color,"geal","geal","dubh|dorcha"
+word_006,maith,good,adjective,quality,Having positive qualities; beneficial,"Is fear maith é","He is a good man",/mˠah/,1,10,From Irish 'maith' meaning good,Very common adjective,"deas|iontach","deas|breá","olc|dona"
+word_007,olc,bad,adjective,quality,Having negative qualities; harmful,"Tá droch-aimsir ann","There is bad weather",/oɫk/,2,6,From Irish 'olc' meaning bad,Common negative adjective,"dona|droch","dona|droch","maith|deas"
+word_008,fada,long,adjective,dimension,Having great length or duration,"Tá an bóthar fada","The road is long",/ˈfˠad̪ˠə/,3,6,From Irish 'fada' meaning long,Spatial and temporal,"sínte","sínte","gearr|beag"
+word_009,gearr,short,adjective,dimension,Having little length or duration,"Tá scéal gearr agam","I have a short story",/ɡʲaːɾˠ/,3,6,From Irish 'gearr' meaning short,Spatial and temporal,"beag|giorra","beag","fada|mór"
+word_010,mór,big,adjective,size,Having great size or importance,"Teach mór","A big house",/moːɾˠ/,1,9,From Irish 'mór' meaning big,Very common size adjective,"ollmhór|ard","ollmhór","beag|bídeach"

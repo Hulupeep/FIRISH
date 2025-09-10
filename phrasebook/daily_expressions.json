@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "FIRISH Daily Expressions Phrasebook",
+    "version": "1.0.0",
+    "description": "Common phrases for everyday communication in FIRISH",
+    "created": "2025-09-10"
+  },
+  "categories": {
+    "greetings": {
+      "morning_greetings": {
+        "basic": {
+          "firish": "morning",
+          "english": "good morning",
+          "context": "neutral greeting"
+        },
+        "joyful": {
+          "firish": "morning~bright",
+          "english": "what a beautiful morning!",
+          "context": "expressing joy about the day"
+        },
+        "peaceful": {
+          "firish": "morning~gentle",
+          "english": "peaceful morning to you",
+          "context": "wishing tranquility"
+        }
+      },
+      "evening_greetings": {
+        "basic": {
+          "firish": "evening",
+          "english": "good evening",
+          "context": "neutral greeting"
+        },
+        "reflective": {
+          "firish": "evening~thoughtful",
+          "english": "time for reflection",
+          "context": "contemplative mood"
+        }
+      }
+    },
+    "courtesy": {
+      "thanks": {
+        "simple": {
+          "firish": "thanks",
+          "english": "thank you",
+          "context": "basic gratitude"
+        },
+        "deep": {
+          "firish": "thanks~heart",
+          "english": "thank you from my heart",
+          "context": "profound gratitude"
+        },
+        "formal": {
+          "firish": "thanks.respect",
+          "english": "I am grateful to you",
+          "context": "formal appreciation"
+        }
+      },
+      "apologies": {
+        "simple": {
+          "firish": "sorry",
+          "english": "I'm sorry",
+          "context": "basic apology"
+        },
+        "deep": {
+          "firish": "sorry~regret",
+          "english": "I deeply regret this",
+          "context": "profound remorse"
+        }
+      }
+    },
+    "emotions": {
+      "feelings": {
+        "happy": {
+          "firish": "happy~light",
+          "english": "I feel light and happy",
+          "context": "expressing joy"
+        },
+        "sad": {
+          "firish": "sad~gentle",
+          "english": "my heart carries gentleness in sadness",
+          "context": "acknowledging sorrow with grace"
+        },
+        "confused": {
+          "firish": "confused~seeking",
+          "english": "I'm confused but seeking understanding",
+          "context": "uncertainty with hope"
+        }
+      }
+    },
+    "transitions": {
+      "change": {
+        "growth": {
+          "firish": "old>new",
+          "english": "growing from what was to what will be",
+          "context": "positive transformation"
+        },
+        "healing": {
+          "firish": "hurt>peace",
+          "english": "finding peace through pain",
+          "context": "recovery process"
+        }
+      }
+    }
+  }
+}

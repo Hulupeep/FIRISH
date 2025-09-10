@@ -1,0 +1,159 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Firish Lexicon Schema",
+  "description": "JSON Schema for validating Firish lexicon entries using EASE algorithm principles",
+  "type": "object",
+  "properties": {
+    "lexicon": {
+      "type": "array",
+      "description": "Array of lexicon entries",
+      "minItems": 314,
+      "maxItems": 314,
+      "items": {
+        "type": "object",
+        "required": [
+          "headword",
+          "pos",
+          "english",
+          "french",
+          "irish",
+          "ease_rating",
+          "opacity_low",
+          "opacity_mid",
+          "opacity_high",
+          "notes",
+          "examples"
+        ],
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "The main word form in Firish",
+            "minLength": 1,
+            "maxLength": 50
+          },
+          "pos": {
+            "type": "string",
+            "description": "Part of speech",
+            "enum": [
+              "noun",
+              "verb",
+              "adjective",
+              "adverb",
+              "pronoun",
+              "particle",
+              "number",
+              "determiner",
+              "preposition",
+              "conjunction",
+              "interjection"
+            ]
+          },
+          "english": {
+            "type": "string",
+            "description": "English translation/equivalent",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "french": {
+            "type": "string",
+            "description": "French translation/equivalent",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "irish": {
+            "type": "string",
+            "description": "Irish translation/equivalent",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "ease_rating": {
+            "type": "number",
+            "description": "EASE algorithm rating (1-10, lower = easier)",
+            "minimum": 1,
+            "maximum": 10
+          },
+          "opacity_low": {
+            "type": "number",
+            "description": "Opacity for English-dominant speakers (0-1)",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "opacity_mid": {
+            "type": "number",
+            "description": "Opacity for French-familiar speakers (0-1)",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "opacity_high": {
+            "type": "number",
+            "description": "Opacity for Irish-familiar speakers (0-1)",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "notes": {
+            "type": "string",
+            "description": "Additional notes about usage, etymology, or context",
+            "maxLength": 500
+          },
+          "examples": {
+            "type": "array",
+            "description": "Usage examples in Firish",
+            "minItems": 1,
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "required": ["firish", "english"],
+              "properties": {
+                "firish": {
+                  "type": "string",
+                  "description": "Example sentence in Firish",
+                  "minLength": 1,
+                  "maxLength": 200
+                },
+                "english": {
+                  "type": "string",
+                  "description": "English translation of the example",
+                  "minLength": 1,
+                  "maxLength": 200
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadata about the lexicon",
+      "required": ["version", "created", "total_entries", "language_family"],
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "Lexicon version",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "created": {
+          "type": "string",
+          "description": "Creation date in ISO format",
+          "format": "date-time"
+        },
+        "total_entries": {
+          "type": "integer",
+          "description": "Total number of lexicon entries",
+          "minimum": 314,
+          "maximum": 314
+        },
+        "language_family": {
+          "type": "string",
+          "description": "Language family classification",
+          "enum": ["Celtic-Romance-Germanic Hybrid"]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["lexicon", "metadata"],
+  "additionalProperties": false
+}

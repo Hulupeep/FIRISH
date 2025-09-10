@@ -1,0 +1,150 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Firish Lexicon Schema",
+  "description": "Schema for validating Firish dictionary entries",
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9_-]+$",
+            "description": "Unique identifier for the entry"
+          },
+          "firish": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100,
+            "pattern": "^[a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüý'\\s-]+$",
+            "description": "Firish word or phrase"
+          },
+          "english": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "description": "English translation"
+          },
+          "part_of_speech": {
+            "type": "string",
+            "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "interjection", "pronoun", "article", "phrase", "idiom"],
+            "description": "Grammatical category"
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50,
+            "description": "Semantic category or domain"
+          },
+          "definition": {
+            "type": "string",
+            "minLength": 5,
+            "maxLength": 500,
+            "description": "Detailed definition or explanation"
+          },
+          "example_firish": {
+            "type": "string",
+            "maxLength": 300,
+            "description": "Example sentence in Firish"
+          },
+          "example_english": {
+            "type": "string",
+            "maxLength": 300,
+            "description": "English translation of example"
+          },
+          "pronunciation": {
+            "type": "string",
+            "maxLength": 200,
+            "pattern": "^[/\\[\\]a-zA-Zàáâãäåæçèéêëìíîïñòóôõöøùúûüýɪɛɔʊʌəɑɒɜːɪəeɪaɪɔɪaʊəʊɪəeəʊəɑːɔːiːuːɜːɪəɛəʊəɒəɪəeəɑəɔɒ'\\s-]+$",
+            "description": "Phonetic pronunciation"
+          },
+          "difficulty": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Difficulty rating from 1 (easy) to 10 (hard)"
+          },
+          "frequency": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Usage frequency from 1 (rare) to 10 (common)"
+          },
+          "etymology": {
+            "type": "string",
+            "maxLength": 300,
+            "description": "Word origin and etymology"
+          },
+          "notes": {
+            "type": "string",
+            "maxLength": 500,
+            "description": "Additional notes or usage information"
+          },
+          "related_words": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100
+            },
+            "maxItems": 10,
+            "description": "List of related words"
+          },
+          "synonyms": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100
+            },
+            "maxItems": 10,
+            "description": "List of synonyms"
+          },
+          "antonyms": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100
+            },
+            "maxItems": 10,
+            "description": "List of antonyms"
+          }
+        },
+        "required": ["id", "firish", "english", "part_of_speech", "category", "definition"],
+        "additionalProperties": false
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "created": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updated": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "total_entries": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "language_pair": {
+          "type": "string",
+          "enum": ["firish-english", "english-firish"]
+        }
+      },
+      "required": ["version", "created", "language_pair"],
+      "additionalProperties": false
+    }
+  },
+  "required": ["entries", "metadata"],
+  "additionalProperties": false
+}

@@ -1,0 +1,26 @@
+# FIRISH Emotional Pattern Examples
+# Demonstrating the emotional annotation system
+
+# Basic emotions with contextual variations
+happy = "I'm happy"
+happy~bright = "I'm absolutely delighted!"
+happy~quiet = "I'm content"
+
+sad = "I'm sad"
+sad~deep = "I'm heartbroken"
+sad~mild = "I'm a bit down"
+
+# Compound emotional states
+excited~nervous = "I can't wait, but I'm also worried"
+happy~grateful = "I'm so thankful and joyful"
+tired~peaceful = "exhausted but at peace"
+
+# Emotional transitions
+anger>calm = "let that anger flow into stillness"
+worry>hope = "transform anxiety into possibility"
+fear>courage = "find strength in the face of fear"
+
+# Cultural emotional expressions
+love.irish = "grá mo chroí" # love of my heart
+sorrow.celtic = "the keening in my soul"
+joy.celebration = "sláinte to life!"

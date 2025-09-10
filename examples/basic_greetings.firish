@@ -1,0 +1,25 @@
+# Basic FIRISH Greetings
+# Demonstrating core FIRISH language patterns
+
+# Simple greetings
+hello = "hello"
+goodbye = "goodbye"
+
+# Contextual greetings with emotional markers
+morning~joy = "good morning!" 
+evening~peace = "good evening."
+night~warm = "goodnight, sleep well"
+
+# Formal introductions
+introduce.formal = "I am pleased to meet you"
+introduce.casual = "nice to meet you"
+
+# Response patterns
+thanks = "thank you"
+thanks~deep = "thank you so much"
+welcome = "you're welcome"
+
+# Cultural context examples
+greet.irish = "céad míle fáilte"  # hundred thousand welcomes
+greet.traditional = "¡hola amigo!"
+greet.formal = "konnichiwa"

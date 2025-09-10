@@ -1,0 +1,32 @@
+# Firish Repository .gitignore
+
+# Claude Code / Claude Flow files  
+.claude-flow/
+.hive-mind/
+memory/
+coordination/
+claude-flow*
+CLAUDE.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# User-specific development files
+firish.md
+github.md

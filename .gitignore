@@ -29,4 +29,19 @@ Thumbs.db
 
 # User-specific development files
 firish.md
-github.md
+github.md# Large model files and training artifacts
+*.safetensors
+models/t5-firish/model.safetensors
+models/t5-firish/spiece.model
+kaggle/error-logs/
+kaggle/quick-logs/
+kaggle/latest-logs/
+kaggle/completed-training/
+*.pt
+*.pth
+*.bin
+training_args.bin
+__pycache__/
+*.pyc
+.DS_Store
+*.log

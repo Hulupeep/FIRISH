@@ -1,19 +1,16 @@
 {
-  "title": "Firish Language Training Dataset",
-  "id": "firish-training", 
+  "title": "Firish T5 Training Dataset - Sept 2025",
+  "id": "colmbyrne/firish-training",
   "licenses": [
     {
       "name": "CC-BY-SA-4.0"
     }
   ],
+  "description": "Training dataset for fine-tuning T5-small on authentic Firish translation patterns. Firish is a playful code-switching language mixing English, French, and Irish for family coordination and obfuscation.",
   "keywords": [
     "nlp",
     "translation", 
     "multilingual",
-    "irish",
-    "french",
-    "english",
-    "language-model",
     "t5",
     "fine-tuning"
   ],

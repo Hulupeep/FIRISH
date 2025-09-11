@@ -40,7 +40,7 @@ We now offer both **rule-based** and **AI-powered** Firish translation:
 **Family Coordination**:
 ```
 English: "Are you ready for breakfast?"
-Firish:  "An bhfuil tú ready pour breakfast?"
+Firish:  "An bhfuil tú ready pour petit dejeuner?"
 Context: [parents, morning rush, low opacity]
 ```
 
@@ -53,8 +53,8 @@ Context: [couple, restaurant, strangers nearby, high opacity]
 
 **Travel Communication**:
 ```
-English: "Let's go home now"
-Firish:  "Téigimís home anois"
+English: "Let's go home now. It's boring"
+Firish:  "Let's dul go dti abhaile anois. C'est bor-allactha"
 Context: [Irish couple abroad, coordinating, medium opacity]
 ```
 
@@ -80,7 +80,7 @@ Context: [Irish couple abroad, coordinating, medium opacity]
 > "To be, or not to be, that is the question"
 
 **Firish Translation**:
-> "Être ou ní être, sin é an cheist-allachta"
+> "Être ou ní être, sin é an cheist"
 
 *EASE Analysis*: 
 - `Être` (French infinitive) - philosophical concepts favor French
@@ -93,16 +93,16 @@ Context: [Irish couple abroad, coordinating, medium opacity]
 **Setting**: Aoife and Cian, Irish couple living in London, having lunch at a busy restaurant. They want to discuss splitting the bill without drawing attention.
 
 ```
-Aoife: "An bhfuil tú payer-ach half?"
+Aoife: "An bhfuil tú payer-ach demi?"
        (Are you paying half?)
        
-Cian:  "Oui, but le service-allachta est rubbish."
-       (Yes, but the service is rubbish.)
+Cian:  "Oui, but le service-allachta est nil se mhaith."
+       (Yes, but the service is not good.)
        
-Aoife: "Ní worth-ach full tip mar sin."
+Aoife: "Ní worth-ach full tip-ach mar sin."
        (Not worth full tip then.)
        
-Cian:  "Exactly. Fifteen percent max-ach."
+Cian:  "Exacte. deich pourcent ok?"
        (Exactly. Fifteen percent max.)
 ```
 

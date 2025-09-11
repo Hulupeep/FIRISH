@@ -93,17 +93,17 @@ Prithee tell him, so much the rent of his land comes to. He will not believe a f
    The one in motley here - anseo,
    The other found out there - ansiúd."
 
-**GONERIL** *(entering with cold English authority)*
-Not only, sir, this your all-licensed fool, but other of your insolent retinue do hourly carp and quarrel, breaking forth in rank and not-to-be-endured riots.
+**GONERIL** *(entering with cold French aristocratic authority)*
+Non seulement, Monsieur - not only, sir - ce bouffon que vous autorisez à tout dire - this your all-licensed fool - mais d'autres de votre suite insolente - but other of your insolent retinue - ne cessent de critiquer et de se quereller - do hourly carp and quarrel - éclatant en émeutes grossières et intolérables - breaking forth in rank and not-to-be-endured riots.
 
 **FOOL** *(aside to Lear, Irish warning)*
 For you know, nuncle, "The hedge-sparrow fed the cuckoo so long that it's had it head bit off by it young." So out went the candle, and we were left darkling - fágadh san dorchadas sinn.
 
-**LEAR** *(Irish rage building)*
-Are you our daughter? An í ár n-iníon tú?
+**LEAR** *(Irish bewilderment confronting French coldness)*
+Êtes-vous notre fille? - are you our daughter? - an í ár n-iníon tú?
 
-**GONERIL**
-Come, sir, I would you would make use of that good wisdom whereof I know you are fraught, and put away these dispositions that of late transform you from what you rightly are.
+**GONERIL** *(French aristocratic condescension)*
+Venez, Monsieur - come, sir - je voudrais que vous fassiez usage de cette bonne sagesse - I would you would make use of that good wisdom - dont je sais que vous êtes pourvu - whereof I know you are fraught - et que vous écartiez ces dispositions - and put away these dispositions - qui dernièrement vous transforment - that of late transform you - de ce que vous êtes réellement - from what you rightly are.
 
 **FOOL** *(Irish truth to power)*
 May not an ass know when the cart draws the horse? *[to Lear]* Whoop, Jug, I love thee! But tell me, nuncle, can you tell how an oyster makes his shell?

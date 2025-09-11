@@ -26,16 +26,16 @@ A thug siad *richness* dóibh. A *parfum* *lost*,
 Tugann *gifts* bocht nuair a bhíonn an *giver* *unkind*.
 
 **HAMLET:**
-*Ha ha*! An bhfuil tú *honest*?
+*Ha ha*! Êtes-vous *honnête* — an bhfuil tú *honest*?
 
 **OPHELIA:**
-A Thiarna?
+Mon Seigneur — a Thiarna?
 
 **HAMLET:**
-An bhfuil tú *belle*?
+Êtes-vous *belle* — an bhfuil tú *belle*?
 
 **OPHELIA:**
-Céard a *means* do *Lordship*?
+Que veut dire Votre Seigneurie — céard a *means* do *Lordship*?
 
 **HAMLET:**
 Go gcaithfidh *honnêteté* gan *commerce* a bheith aici le *beauté*
@@ -48,27 +48,33 @@ Bhí sé seo *paradox* uair amháin, ach anois *proves* an t-am é.
 *Indeed*, Mo Thiarna, thug tú mé le *croire* sin.
 
 **HAMLET:**
-Níor cheart duit *believe* mé, mar ní féidir le *virtue*
-In ár *stock* sean *ingraff* chomh *sweet*
-Nach mbeadh *savour* den *old stock* againn fós.
-Níor *love*-áil mé tú riamh.
+Vous ne devriez pas me *croire* — níor cheart duit *believe* mé —
+car la *vertu* ne peut s'*enter* si doucement
+sur notre vieille *souche* — in ár *stock* sean —
+qu'elle n'ait encore la *saveur* de l'ancienne *souche*.
+Je ne vous ai jamais aimée — níor *love*-áil mé tú riamh.
 
 **OPHELIA:**
-Ar an *déception* níos mó a bhí mé.
+J'étais d'autant plus *trompée* — ar an *déception* níos mó a bhí mé.
 
 **HAMLET:**
-*Get* tú chuig *nunnery*. Cén fáth a mbeadh tú
-Ina *breeder* na *sinners*? Táim féin *indifferent honest*,
-Ach fós *accuse*-óinn mé féin de rudaí dá leithéid
-Gur fearr nach mbeadh mo *mère* *born* mé.
-Táim go *proud*, *revengeful*, *ambitious*,
-Le níos mó *offences* ar mo *beck*
-Ná smaointe acu a chur ina *shape*,
-*Imagination* chun *figure* iad, nó am
-Chun iad a *act*. Céard a dhéanfadh *fellows* mar mé
-Ag *crawling* idir *heaven* agus *earth*?
-Táimid *arrant knaves* go léir. Ná *believe* ceann ar bith againn.
-*Go* chuig *nunnery*, *go*!
+Allez au *couvent* — *get* tú chuig *nunnery*. Pourquoi seriez-vous
+une *génitrice* de *pécheurs* — ina *breeder* na *sinners*?
+Je suis moi-même assez *honnête* — táim féin *indifferent honest* —
+mais je pourrais encore m'*accuser* de telles choses
+qu'il eût mieux valu que ma *mère* ne m'eût point *enfanté* —
+gur fearr nach mbeadh mo *mère* *born* mé.
+Je suis *orgueilleux*, *vengeur*, *ambitieux* —
+táim go *proud*, *revengeful*, *ambitious* —
+avec plus d'*offenses* à ma portée
+que de *pensées* pour leur donner *forme* —
+ná smaointe acu a chur ina *shape* —
+d'*imagination* pour les *figurer*, ou de temps pour les *accomplir*.
+Que feraient des *misérables* comme moi
+à *ramper* entre le *ciel* et la *terre* — ag *crawling* idir *heaven* agus *earth*?
+Nous sommes tous de *fieffés coquins* — táimid *arrant knaves* go léir.
+Ne *croyez* aucun de nous — ná *believe* ceann ar bith againn.
+Allez au *couvent*, allez!
 
 **OPHELIA:**
 Ó, *heavenly powers*, *restore* é!

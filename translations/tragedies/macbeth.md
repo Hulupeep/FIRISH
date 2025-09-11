@@ -43,26 +43,26 @@ Dia ár sábháil - God save us all.
 **GENTLEWOMAN** *(to Doctor, in hushed English)*
 Lo you, here she comes. This is her very guise, and upon my life, fast asleep. Observe her - stand close.
 
-**DOCTOR** *(whispered French - medical observation)*
-Comment elle marche... how she walks... This is indeed a great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching.
+**DOCTOR** *(whispered French - medical/professional observation)*
+Observez comment elle marche - comment elle marche - how she walks... Ceci est en effet une grande perturbation dans la nature - this is indeed a great perturbation in nature - de recevoir à la fois le bénéfice du sommeil et de faire les effets de la veille - to receive at once the benefit of sleep and do the effects of watching.
 
-**LADY MACBETH** *(in sleep, unconscious Irish emerging)*
-Fágaim anseo é... I leave it here... Yet here's a spot. *[rubbing her hands]*
+**LADY MACBETH** *(in sleep, unconscious sophistication breaking through)*
+Je le laisse ici - fágaim anseo é - I leave it here... Pourtant voici une tache - yet here's a spot. *[rubbing her hands]*
 
-**DOCTOR** *(in French, professional)*
-Écoutez! Elle parle. I will set down what comes from her to satisfy my remembrance the more strongly.
+**DOCTOR** *(French professional medical terminology)*
+Écoutez! Elle parle - listen! She speaks. Je noterai ce qui sort d'elle - I will set down what comes from her - pour satisfaire ma mémoire plus fortement - to satisfy my remembrance the more strongly.
 
-**LADY MACBETH** *(Irish unconscious guilt)*
-Amach, amach, damn spot! Out, I say! One, two - why then, 'tis time to do't. Hell is murky. Fie, mo thighearna, my lord, fie, a soldier and afeard?
+**LADY MACBETH** *(French sophistication dissolving into Irish guilt)*
+Sortez, sortez - amach, amach - damn spot! Out, I say! Un, deux - one, two - pourquoi alors - why then - 'tis time to do't. L'enfer est sombre - hell is murky. Fi donc, mo thighearna - fie, my lord - fi donc, un soldat qui a peur? - fie, a soldier and afeard?
 
 *[English returning - her conscious persona fighting through]*
 What need we fear who knows it, when none can call our power to accompany? Yet who would have thought the old man to have had so much blood in him?
 
-**DOCTOR** *(awed whisper in French)*
-Mon Dieu, she speaks of terrible things...
+**DOCTOR** *(awed whisper in French medical terminology)*
+Mon Dieu, elle parle de choses terribles - she speaks of terrible things... Ces manifestations psychiques - these psychic manifestations... C'est un cas extraordinaire de somnambulisme - this is an extraordinary case of somnambulism.
 
-**LADY MACBETH** *(Irish guilt breaking through)*
-An Thane of Fife had a wife - bhí bean ag Thane Fife. Where is she now? What, will these hands ne'er be clean?
+**LADY MACBETH** *(French sophistication completely broken by guilt)*
+Le Thane de Fife avait une épouse - an Thane of Fife had a wife - bhí bean ag Thane Fife. Où est-elle maintenant? - where is she now? Quoi, ces mains ne seront-elles jamais propres? - what, will these hands ne'er be clean?
 
 *[Anguished Irish]*
 Níl stop ar fhail air - there's no stopping it! No more o' that, my lord, no more o' that. You mar all with this starting.
@@ -73,8 +73,8 @@ Go directly, a bhean bhoicht - poor woman. Her heart is sorely charged.
 **LADY MACBETH** *(Irish maternal grief)*
 Here's the smell of the blood still - boladh na fola fós. All the perfumes of Arabia will not sweeten this little hand. Oh, oh, oh!
 
-**DOCTOR** *(French professional concern)*
-What a sigh is there! The heart is sorely charged.
+**DOCTOR** *(French professional medical assessment)*
+Quel soupir! - what a sigh is there! Le cœur est douloureusement chargé - the heart is sorely charged. Cette mélancolie profonde - this deep melancholy - ces symptômes de culpabilité obsessionnelle - these symptoms of obsessive guilt.
 
 **LADY MACBETH** *(final Irish - childlike)*
 Wash your hands, nigh suas do lámha, put on your nightgown, look not so pale. I tell you yet again, Duncan's in his grave. After life's fitful fever he sleeps well.
@@ -85,8 +85,8 @@ Codail go sámh, codail go sámh... sleep peacefully, sleep peacefully...
 *[Exiting, still in sleep]*
 Come, come, come, come, give me your hand. What's done cannot be undone. To bed, to bed, to bed.
 
-**DOCTOR** *(crossing himself, in French and then Irish prayer)*
-Dieu nous garde... More needs she the divine than the physician. Dia ár sábháil - God save us all. Remove from her the means of all annoyance, and still keep eyes upon her.
+**DOCTOR** *(crossing himself, French professional yielding to spiritual authority)*
+Dieu nous garde - God preserve us... Plus besoin a-t-elle du divin que du médecin - more needs she the divine than the physician. En tant que praticien - as a practitioner - je dois reconnaître - I must acknowledge - dia ár sábháil - God save us all. Enlevez d'elle tous les moyens de nuire - remove from her the means of all annoyance - et surveillez-la toujours - and still keep eyes upon her.
 
 **GENTLEWOMAN** *(Irish compassion)*
 Good night, good doctor. Tá mo chroí briste - my heart is broken for her.

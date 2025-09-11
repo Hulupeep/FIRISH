@@ -18,38 +18,38 @@ Time must untangle this, not I. It is too hard a knot for me to untie. But sure 
 
 ### Act III, Scene i - Viola/Cesario with Olivia (Courtship Register Confusion)
 
-**OLIVIA** *(approaching with formal French courtesy)*
-Bonjour, mon cher Cesario. You've come back - mille mercis! I had feared you would not return.
+**OLIVIA** *(approaching with refined French aristocratic courtesy)*
+Bonjour, mon cher Cesario - good day, my dear Cesario. Vous êtes revenu - you've come back - mille mercis! - a thousand thanks! J'avais craint que vous ne reveniez pas - I had feared you would not return.
 
-**VIOLA** *(as Cesario, struggling with masculine register)*
-My lady, I... je suis venu... I came only because my master commands it. The Duke still sends his love - a stór... I mean, his deep affection.
+**VIOLA** *(as Cesario, struggling with masculine register and upper-class French)*
+Ma dame - my lady - je... je suis venu seulement - I came only - parce que mon maître l'ordonne - because my master commands it. Le Duc envoie toujours son amour - the Duke still sends his love - a stór... je veux dire - I mean - sa profonde affection - his deep affection.
 
-**OLIVIA** *(dismissive French)*
-Pah! Le Duc? Forget the Duke! *[switching to Irish intimacy]* A chroí, it's you I want to hear from. Tell me true - do you have any feelings for me at all?
+**OLIVIA** *(dismissive aristocratic French)*
+Pah! Le Duc? Oubliez le Duc! - forget the Duke! *[switching from French refinement to Irish intimacy]* A chroí, c'est de vous que je veux entendre parler - it's you I want to hear from. Dites-moi la vérité - tell me true - avez-vous quelque sentiment pour moi? - do you have any feelings for me at all?
 
-**VIOLA** *(panicking, languages mixing uncontrollably)*
-My lady, I... je ne peux pas... I cannot... *[aside in Irish]* Cad is féidir liom a rá? What can I say to her?
+**VIOLA** *(panicking, languages mixing uncontrollably as class registers collide)*
+Ma dame - my lady - je... je ne peux pas... je ne saurais... - I cannot... I could not... *[aside in Irish]* Cad is féidir liom a rá? Comment puis-je lui répondre? - what can I say to her?
 
-**OLIVIA** *(pressing closer, intimate Irish)*
-A mhuirnín, don't be shy with me. I know what I see in your eyes - tá grá ann, there's love there!
+**OLIVIA** *(pressing closer, French refinement dissolving into intimate Irish)*
+Mon chéri - a mhuirnín - ne soyez pas timide avec moi - don't be shy with me. Je sais ce que je vois dans vos yeux - I know what I see in your eyes - tá grá ann - il y a de l'amour là - there's love there!
 
 **VIOLA** *(desperate, blurting truth through wrong gender register)*
-Madame, I have one heart, one bosom, and one truth - and that heart, that bosom, that truth belongs to... to someone else entirely! *[catching herself]* To no woman living!
+Madame, j'ai un cœur - I have one heart - une poitrine - one bosom - et une vérité - and one truth - et ce cœur, cette poitrine, cette vérité appartient à... - and that heart, that bosom, that truth belongs to... - à quelqu'un d'autre entièrement! - to someone else entirely! *[catching herself]* À aucune femme vivante! - to no woman living!
 
-**OLIVIA** *(hopefully)*
-Ah! Then perhaps to... un homme? A man?
+**OLIVIA** *(hopefully, French refinement with growing excitement)*
+Ah! Alors peut-être à... - then perhaps to... - un homme? Un gentilhomme? - a man? A gentleman?
 
 **VIOLA** *(trapped, speaking more truth than intended)*
 Aye... if it were a man, he would be... he would be exactly like... like my master. The same noble bearing, the same... *[Irish slipping out]* an aghaidh céanna, the same face, the same age...
 
-**OLIVIA** *(confused but pressing)*
-Mais tell me - could you love a woman as I love you?
+**OLIVIA** *(confused but pressing, sophisticated French inquiry)*
+Mais dites-moi - mais tell me - pourriez-vous aimer une femme - could you love a woman - comme je vous aime? - as I love you?
 
 **VIOLA** *(the most honest thing she's said, in Irish)*
 Dá mbeadh mé i mo fhear... if I were a man... then aye, I could love a woman just as you love me. And perhaps even better.
 
-**OLIVIA** *(triumphant)*
-Then there's hope! Time and patience will reveal all. Come tomorrow, mon cœur - we'll speak more of this!
+**OLIVIA** *(triumphant, French aristocratic confidence)*
+Alors il y a de l'espoir! - then there's hope! Le temps et la patience révéleront tout - time and patience will reveal all. Venez demain - come tomorrow - mon cœur - nous en parlerons davantage - we'll speak more of this!
 
 *[Exit Olivia, leaving Viola in confusion]*
 

@@ -4,19 +4,19 @@
 ### Act I, Scene ii - Prospero's Story to Miranda (Formal vs Tender Registers)
 
 **PROSPERO** *(beginning formally in French, as befits a duke)*
-Ma fille, ma chère Miranda, le temps est venu - the time has come for you to know more of your history than you yet know.
+Ma fille, ma chère Miranda, le temps est venu - an t-am atá ann - pour que vous connaissiez plus de votre histoire que vous n'en savez encore - the time has come for you to know more of your history than you yet know.
 
 **MIRANDA** *(respectfully, matching his French)*
 Papa, you've often begun to tell me what I am, but always stopped... pourquoi? Why do you hold back?
 
-**PROSPERO** *(warming, switching to Irish fatherly affection)*
-A stór mo chroí, my heart's treasure, it's not an easy story to tell. Twelve years ago - bliain dhéag ó shin - your father was the Duke of Milan, and a mighty prince, an prionsa cumhachtach.
+**PROSPERO** *(warming, mixing French authority with Irish fatherly affection)*
+Ma chère enfant - a stór mo chroí - mon trésor - my heart's treasure - ce n'est pas une histoire facile à raconter - it's not an easy story to tell. Il y a douze ans - twelve years ago - bliain dhéag ó shin - votre père était le Duc de Milan - your father was the Duke of Milan - et un puissant prince - and a mighty prince - an prionsa cumhachtach.
 
 **MIRANDA**
 A prince? But Papa, what storm has brought us to this island? That ship we just saw wrecked - na daoine bochta, the poor people!
 
-**PROSPERO** *(switching to English for the serious political story)*
-Sit down, daughter, and listen well. That ship contained my enemies - na naimhde a rinne ár ndíbearú, the enemies who caused our exile. 
+**PROSPERO** *(French authority for serious political matter)*
+Asseyez-vous, ma fille - sit down, daughter - et écoutez bien - and listen well. Ce navire contenait mes ennemis - that ship contained my enemies - na naimhde a rinne ár ndíbearú - les ennemis qui ont causé notre exil - the enemies who caused our exile. 
 
 *[Growing more emotional, Irish breaking through]*
 I had a brother, Antonio - mo dheartháir féin! - who I trusted more than any man alive. I gave him control of my dukedom while I studied... while I learned the arts you see me practice now.
@@ -24,22 +24,22 @@ I had a brother, Antonio - mo dheartháir féin! - who I trusted more than any m
 **MIRANDA** *(in Irish, sensing his pain)*
 Agus cad a rinne sé? And what did he do?
 
-**PROSPERO** *(bitter, mixing languages with emotion)*
-He betrayed me! With the King of Naples - le Roi de Naples - he conspired to steal my dukedom. One dark night, they put us in a rotten boat - i mbád lobhta - and set us to sea to die!
+**PROSPERO** *(bitter, French formality breaking into emotional Irish)*
+Il m'a trahi! - He betrayed me! Avec le Roi de Naples - with the King of Naples - le Roi de Naples - il a conspiré pour voler mon duché - he conspired to steal my dukedom. Une nuit sombre - one dark night - rinne siad - ils nous ont mis dans un bateau pourri - they put us in a rotten boat - i mbád lobhta - et nous ont mis à la mer pour mourir - and set us to sea to die!
 
 **MIRANDA** *(Irish compassion)*
 A Dhia na glóire! How did we survive, Papa?
 
-**PROSPERO** *(tenderly, pure Irish now)*
-Á, a stór, there was one good soul among them - Gonzalo, an old lord who took pity on us. He gave us water, food, and most precious of all - *[gesturing to his books]* - mo leabhair draíochta, my books of magic.
+**PROSPERO** *(French academic precision mixed with Irish tenderness)*
+Mais, ma chère enfant - á, a stór - il y avait une âme charitable parmi eux - there was one good soul among them - Gonzalo, un vieux seigneur qui eut pitié de nous - an old lord who took pity on us. Il nous donna de l'eau, de la nourriture - he gave us water, food - et le plus précieux de tout - and most precious of all - *[gesturing to his books]* - mes livres de magie - mo leabhair draíochta - my books of magic.
 
 ### Act V, Scene i - Prospero Releases Ariel (Magic Lexicon and Farewell)
 
 **ARIEL** *(appearing, speaking in the mystical Irish traditionally associated with the aos sí)*
 A mháistir, master mine, I have done your bidding. The ship's crew sleeps safe - codlann siad go sábháilte - and your enemies repent their crimes.
 
-**PROSPERO** *(formal French, but beginning to soften)*
-Mon brave esprit, my brave Ariel, you have served me faithfully these seven years. But tell me true - do you love me?
+**PROSPERO** *(formal French scholarly authority, but beginning to soften)*
+Mon brave esprit - my brave Ariel - mo dhearthráir spírid - vous m'avez servi fidèlement - you have served me faithfully - pendant ces sept années - these seven years. Mais dites-moi la vérité - but tell me true - m'aimez-vous? - do you love me?
 
 **ARIEL** *(simple Irish truth)*
 Love you? A mháistir... you freed me from that pine tree where the witch Sycorax had trapped me. Sin seacht mbliana, for seven years you've been kind... but mo chroí, my heart longs for freedom like the wind longs for the sky.
@@ -49,8 +49,8 @@ And you shall have it, a stór. Tá do shaoirse tuillte agat - your freedom is e
 
 *[Ariel helps him put away his magic books]*
 
-**PROSPERO** *(to his books, in French - the language of his learning)*
-Mes livres précieux, my precious books... je vous abandonne. I renounce you all. *[switching to Irish for the personal sacrifice]* Slán libh, goodbye forever.
+**PROSPERO** *(to his books, in French - the language of his ducal learning)*
+Mes livres précieux - my precious books - mo leabhair luachmhara... je vous abandonne - I abandon you - I renounce you all. Cette magie plus grossière - this rougher magic - je l'abjure ici - I here abjure. *[switching to Irish for the personal sacrifice]* Slán libh - adieu pour toujours - goodbye forever.
 
 *[To Ariel]*
 A chara dhíl, dear friend, take my magic staff - mo shlat draíochta - and break it. Cast it in the deep sea where it can harm none.

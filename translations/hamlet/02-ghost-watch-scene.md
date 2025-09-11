@@ -123,16 +123,20 @@ Tusa 'tá *scholar*, Horatio, *speak* leis.
 Nach cosúil le rí é?
 
 **HORATIO:**
-Chomh cosúil le mé féin! Tá mé *shaken* le *terror* agus *étonnement*.
+Chomh cosúil le mé féin! Je suis *troublé* par la *terreur* et l'étonnement —
+tá mé *shaken* le *terror* agus *étonnement*.
 
 **BERNARDO:**
 Ba *challenge* maith é — *speaks* tú leis!
 
 **HORATIO:**
-Céard atá tú, a *usurps* an t-am seo na hoíche,
-Chomh maith leis an *forme* *noble* agus *warlike*
-Ina raibh an *majesty* *buried* na Danmhairge
-Mar sin *march* tú? Le Dia *adjure* mé duit, *speak*!
+Que êtes-vous, qui *usurpez* cette heure de la nuit —
+céard atá tú, a *usurps* an t-am seo na hoíche —
+avec cette *forme noble* et *guerrière*
+dans laquelle était *ensevelie* la *majesté* du Danemark —
+ina raibh an *majesty* *buried* na Danmhairge —
+ainsi vous *marchez*? Par Dieu je vous *adjure* —
+le Dia *adjure* mé duit — *parlez*!
 
 **MARCELLUS:**
 Tá sé *offended*.
@@ -154,8 +158,9 @@ Nach é seo *something* níos mó ná *fantasy*?
 Céard a cheapann tú de?
 
 **HORATIO:**
-*Before Dieu*, ní *believe*-finn é
-Gan *sensible* agus *true avouch* mo *eyes*.
+*Devant Dieu* — *before God* — ní *croirfinn* é
+sans le *témoignage sensible* et l'*attestation véritable* de mes *yeux* —
+gan *sensible* agus *true avouch* mo *eyes*.
 
 ## Cultural and Linguistic Notes
 

@@ -6,33 +6,33 @@
 #### Brutus's Speech (Formal Rhetoric - French for Elevated Oratory)
 
 **BRUTUS** *(mounting the pulpit with formal French dignity)*
-Citoyens de Rome! Citizens! Listen to me with silence, that you may hear. *[pause for effect]* Believe me for mine honor, and have respect for mine honor that you may believe.
+Citoyens de Rome! Écoutez-moi avec silence, que vous puissiez entendre - listen with silence that you may hear. *[pause for effect]* Croyez-moi pour mon honneur - believe me for mine honor - et ayez respect pour mon honneur afin que vous puissiez croire - and have respect for mine honor that you may believe.
 
 *[Call-and-response pattern beginning]*
-If there be any in this assembly, any dear friend of Caesar's, to him I say that Brutus's love to Caesar was no less than his...
+S'il y a quelqu'un dans cette assemblée - if there be any in this assembly - quelque ami cher de César - any dear friend of Caesar's - à lui je dis que l'amour de Brutus pour César n'était pas moindre que le sien - to him I say that Brutus's love to Caesar was no less than his...
 
 **FIRST PLEBEIAN** *(in English, working-class directness)*
 We'll hear him! Let him speak!
 
 **BRUTUS** *(continuing in elevated French-English mix)*
-Censure me in your wisdom, and awake your senses, that you may the better judge. S'il y avait quelqu'un here who loved Caesar less than I, let him speak - car je ne l'ai pas offensé, I have not wronged him!
+Censurez-moi dans votre sagesse - censure me in your wisdom - et éveillez vos sens, afin que vous puissiez mieux juger - that you may the better judge. S'il y avait quelqu'un ici qui aimait César moins que moi - if there was anyone here who loved Caesar less than I - qu'il parle - let him speak - car je ne l'ai pas offensé - for I have not wronged him!
 
-S'il y avait quelqu'un in this assembly, any dear friend of Caesar's, to him I say: Brutus's love to Caesar was no less than his. If then that friend demand why Brutus rose against Caesar, this is my answer: Not that I loved Caesar less, but que j'aimais Rome davantage - that I loved Rome more!
+S'il y avait quelqu'un dans cette assemblée - if there was anyone in this assembly - quelque ami cher de César - any dear friend of Caesar's - à lui je dis: l'amour de Brutus pour César n'était pas moindre que le sien - to him I say: Brutus's love to Caesar was no less than his. Si alors cet ami demande pourquoi Brutus s'est soulevé contre César - if then that friend demand why Brutus rose against Caesar - voici ma réponse: Non pas que j'aimais César moins, mais que j'aimais Rome davantage - this is my answer: Not that I loved Caesar less, but that I loved Rome more!
 
 **SECOND PLEBEIAN** *(Irish working-class response)*
 That's fair enough, so it is! He loved Rome better!
 
 **BRUTUS** *(formal peroration)*
-Had you rather Caesar were living and die all slaves, than that Caesar were dead, to live all free men? As Caesar loved me, I weep for him. As he was fortunate, I rejoice at it. As he was valiant, je l'honore. But as he was ambitious, I slew him!
+Préféreriez-vous que César vive et que nous mourions tous esclaves - had you rather Caesar were living and die all slaves - plutôt que César soit mort, pour que nous vivions tous hommes libres - than that Caesar were dead, to live all free men? Comme César m'aimait, je pleure pour lui - as Caesar loved me, I weep for him. Comme il était fortuné, je m'en réjouis - as he was fortunate, I rejoice at it. Comme il était vaillant, je l'honore - as he was valiant, I honor him. Mais comme il était ambitieux, je l'ai tué - but as he was ambitious, I slew him!
 
-There are tears for his love, joy for his fortune, honor for his valor, and death for his ambition. Qui ici est si vil qu'il voudrait être esclave? Who here is so vile that will not love his country?
+Il y a des larmes pour son amour - there are tears for his love - de la joie pour sa fortune - joy for his fortune - de l'honneur pour sa valeur - honor for his valor - et la mort pour son ambition - and death for his ambition. Qui ici est si vil qu'il voudrait être esclave? Qui ici est si vil qu'il n'aimera pas son pays? - Who here is so vile that will not love his country?
 
 *[Pause for response]*
 
 **ALL PLEBEIANS** *(mixed languages showing unity)*
 None, Brutus, none! Ninguno! Personne!
 
-#### Antony's Speech (Emotional Appeal - Irish for Heart, English for Clarity)
+#### Antony's Speech (Strategic Manipulation - Irish for Heart, French for Cunning, English for Clarity)
 
 **ANTONY** *(entering humbly, Irish affecting common touch)*
 Mo chairde, Romans, countrymen, lend me your ears! I come to bury Caesar, not to praise him. The evil that men do lives after them; the good is oft interred with their bones - so let it be with Caesar.
@@ -62,10 +62,10 @@ A mhuintir, my people, mo chairde... bear with me. Mo chroí is in the coffin th
 **FIRST PLEBEIAN** *(in Irish, moved)*
 Tá an ceart aige - he's right! Caesar was no ambitious man!
 
-**ANTONY** *(reading the will, strategic Irish intimacy)*
-But yesterday, the word of Caesar might have stood against the world. Now lies he there, and none so poor to do him reverence. Ó, mo mháistrí! If I were disposed to stir your hearts and minds to mutiny and rage, I should do Brutus wrong, and Cassius wrong, who - you all know - are honorable men.
+**ANTONY** *(reading the will, strategic manipulation mixing languages)*
+Mais hier encore - but yesterday - la parole de César aurait pu tenir tête au monde - Caesar's word might have stood against the world. Now lies he there, agus níl éinne chomh bocht - and none so poor - chun onóir a thabhairt dó - to do him reverence. Ó, mo mháistrí! Si j'étais disposé - if I were disposed - à émouvoir vos cœurs et vos esprits - to stir your hearts and minds - vers la mutinerie et la rage - to mutiny and rage - je ferais tort à Brutus - I should do Brutus wrong - et tort à Cassius - and Cassius wrong - qui - vous le savez tous - sont des hommes honorables - who you all know are honorable men.
 
-I will not do them wrong. I rather choose to wrong the dead, to wrong myself and you, than I will wrong such honorable men. But here's a parchment with the seal of Caesar - I found it in his closet - tá sé anseo, 'tis his will!
+Je ne leur ferai pas tort - I will not do them wrong. Je choisis plutôt - I rather choose - de faire tort aux morts - to wrong the dead - me faire tort à moi-même et à vous - to wrong myself and you - plutôt que de faire tort à de si honorables hommes - than I will wrong such honorable men. Mais voici un parchemin avec le sceau de César - but here's a parchment with Caesar's seal - I found it in his closet - tá sé anseo - 'tis his will!
 
 **ALL PLEBEIANS** *(crescendo of mixed languages)*
 The will! The will! We will hear Caesar's will! Léigh é! Read it! Lisez-le!

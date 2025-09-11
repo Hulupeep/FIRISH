@@ -4,37 +4,37 @@
 ### Act II, Scene i - The Masquerade Dance
 *Setting: A masked ball. Quick wit requires rapid language switching - EASE patterns for insults and deflection*
 
-**BEATRICE** *(in mask, pretending not to recognize Benedick)*
-Ah, monsieur, vous dansez si... so gracefully! Though I hear tell there's wan fella here - Benedick they call him - who thinks himself quite the wit.
+**BEATRICE** *(in mask, pretending not to recognize Benedick with French sophistication)*
+Ah, monsieur, vous dansez avec tant de grâce - you dance so gracefully! Quoique j'entende dire - though I hear tell - qu'il y a un homme ici - there's wan fella here - Benedick qu'on l'appelle - Benedick they call him - qui se croit fort spirituel - who thinks himself quite the wit.
 
-**BENEDICK** *(masked, playing along)*
-Signor Benedick? Ah, c'est un bouffon, un... what's the Irish for a complete eejit?
+**BENEDICK** *(masked, playing along with French wit)*
+Signor Benedick? Ah, c'est un bouffon complet - that's a complete buffoon - un étourdi sans esprit - a witless fool... comment dit-on en irlandais - what's the Irish for - un parfait imbecile - a complete eejit?
 
 **BEATRICE** *(switching to rapid Irish, testing him)*
 Amadán mór! Sin é an focal - and sure, he's the greatest amadán in all Messina. Deir siad that he's got wit enough to keep himself warm - ach níl aon tine ann!
 
-**BENEDICK** *(understanding perfectly, continuing the game)*
-Vraiment? This lady speaks of fire - perhaps she knows something of... l'art de brûler les cœurs?
+**BENEDICK** *(understanding perfectly, continuing with sophisticated French wordplay)*
+Vraiment? Cette dame parle de feu - this lady speaks of fire - peut-être connaît-elle quelque chose - perhaps she knows something - de l'art de brúler les cœurs - of the art of burning hearts? Ou plutôt - or rather - l'art de les glacer avec son esprit acerbe - the art of freezing them with her sharp wit?
 
-**BEATRICE** *(quick EASE switch - English clarity, French wit)*
-Hearts? Pah! If Benedick's heart were made of fire, it would barely warm a tea kettle. *[Irish proverb]* "Is fearr focal maith ná droch-chraic" - better good words than bad fighting - but his words are neither good nor worth the fighting!
+**BEATRICE** *(sophisticated French wit escalating)*
+Les cœurs? Peuh! - hearts? Pah! Si le cœur de Benedick était fait de feu - if Benedick's heart were made of fire - il réchaufferait à peine une théière - it would barely warm a tea kettle. *[Irish proverb switched to French sophistication]* "Il vaut mieux de bonnes paroles qu'une mauvaise querelle" - "is fearr focal maith ná droch-chraic" - better good words than bad fighting - mais ses mots ne sont ni bons ni dignes de combat - but his words are neither good nor worth the fighting!
 
 **BENEDICK** *(dropping pretense, Irish creeping in with emotion)*
 And what would you know of my heart, mo... *[catches himself]* mademoiselle?
 
-**BEATRICE** *(triumphant, full trilingual assault)*
-Ah-HAH! I knew it was you, you... you grand bouffon! Mo chroí, is it? Don't you mo chroí me, Benedick O'Barr - I know your heart like I know bad weather coming!
+**BEATRICE** *(triumphant, sophisticated French wit with Irish passion)*
+Ah-HAH! Je le savais - I knew it was you - vous... vous grand bouffon! - you grand buffoon! Mon cœur - mo chroí - c'est cela? Don't you mo chroí me, Benedick O'Barr - je connais votre cœur - I know your heart - comme je connais le mauvais temps qui arrive - like I know bad weather coming!
 
 ### Act V, Scene iv - The Wedding Revelation
 
-**BENEDICK** *(to Beatrice, formal French dissolving into honest emotion)*
-Madame... non, wait. Beatrice. I was told que tu... that you were dying for love of me.
+**BENEDICK** *(to Beatrice, formal French address dissolving into honest emotion)*
+Madame... non, attendez - no, wait. Beatrice. On m'a dit que vous... - I was told que tu... - que vous mouriez d'amour pour moi - that you were dying for love of me.
 
-**BEATRICE** *(defensive, rapid EASE switching)*
-Dying? Dying?! Who told you such... such flapdoodle? *[Irish indignation]* Bás dom! I'd rather be dead than dying for love of you!
+**BEATRICE** *(defensive, sophisticated French dissolving into Irish indignation)*
+Mourir? Mourir?! - dying? dying?! Qui vous a dit de telles... - who told you such - sottises ridicules - such flapdoodle? *[Irish indignation breaking through]* Bás dom! Plutôt mourir - I'd rather be dead - que de mourir d'amour pour vous - than dying for love of you!
 
-**BENEDICK**
-Your cousin Hero said it - and your uncle, le prince Don Pedro himself confirmed it. They had written proof - "de sa main propre" - in your very hand!
+**BENEDICK** *(French formality with evidence)*
+Votre cousine Hero l'a dit - your cousin Hero said it - et votre oncle - and your uncle - le prince Don Pedro lui-même l'a confirmé - Don Pedro himself confirmed it. Ils avaient une preuve écrite - they had written proof - "de sa main propre" - "de votre propre main" - in your very hand!
 
 **BEATRICE** *(flustered, languages mixing with embarrassment)*
 Mon Dieu... that is... I mean... is gá dom... I need to see this so-called proof! *[aside, in Irish]* Tá mé i dtrioubláid anois.

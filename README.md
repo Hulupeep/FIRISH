@@ -74,6 +74,20 @@ Context: [Irish couple abroad, coordinating, medium opacity]
 - `airgead` (Irish "money/fortune") - economic terms often Irish
 - `mariage-ach` (marriage + English suffix) - obfuscated for social discretion
 
+**Shakespeare's Hamlet - "To Be" Soliloquy** (High opacity, interior monologue):
+
+**Original**:
+> "To be, or not to be, that is the question"
+
+**Firish Translation**:
+> "Être ou ní être, sin é an cheist-allachta"
+
+*EASE Analysis*: 
+- `Être` (French infinitive) - philosophical concepts favor French
+- `ní` (Irish negative) - maintains Irish grammatical backbone
+- `sin é` (Irish "that is") - deictic expressions stay Irish
+- `cheist-allachta` (question + heavy suffix) - existential terms get maximum opacity
+
 ### 3. Real-World Scenario: Irish Couple in London
 
 **Setting**: Aoife and Cian, Irish couple living in London, having lunch at a busy restaurant. They want to discuss splitting the bill without drawing attention.
@@ -130,21 +144,31 @@ Our long-term objective is to translate complete classic works into Firish, pres
    - **Why Firish?** Wit, aphorisms, salon banter—perfect for demonstrating elegant French verbs + Irish particles with English SVO
    - **Rights**: Public domain worldwide
 
+6. **Hamlet** — William Shakespeare (1603)
+   - **Why Firish?** Soliloquies + spying scenes = interior monologue with Low/Mid/High opacity contrast; court intrigue = code-talk heaven
+   - **Best scenes**: "To be" (III.i), Ghost + Watch (I.i), Nunnery (III.i), Closet scene (III.iv)
+   - **Rights**: Public domain worldwide
+
+7. **Romeo & Juliet** — William Shakespeare (1597)
+   - **Why Firish?** Rapid emotional switches; slang + love code; perfect for French verbs + Irish glue particles
+   - **Best scenes**: Balcony (II.ii), Nurse scenes (II.iv), Queen Mab (I.iv), Final tomb (V.iii)
+   - **Rights**: Public domain worldwide
+
 ### Extended Literary Corpus:
 
-6. **Les Misérables** — Victor Hugo (1862)
+8. **Les Misérables** — Victor Hugo (1862)
    - **Why Firish?** Lets you lean French-forward (FR verbs/nouns) while keeping Irish particles. Choose dialogue-heavy extracts (Valjean/Cosette/Javert confrontations)
    - **Rights**: Public domain worldwide
 
-7. **Candide** — Voltaire (1759)
+9. **Candide** — Voltaire (1759)
    - **Why Firish?** Satirical travelogue—great to demo quick, punchy Firish with EASE substitutions at speed
    - **Rights**: Public domain worldwide
 
-8. **The Playboy of the Western World & Riders to the Sea** — J.M. Synge (1907/1904)
-   - **Why Firish?** Hiberno-English rhythm = natural substrate for Firish prosody; short plays pilot translation conventions quickly
-   - **Rights**: Public domain worldwide (Synge d. 1909)
+10. **The Playboy of the Western World & Riders to the Sea** — J.M. Synge (1907/1904)
+    - **Why Firish?** Hiberno-English rhythm = natural substrate for Firish prosody; short plays pilot translation conventions quickly
+    - **Rights**: Public domain worldwide (Synge d. 1909)
 
-9. **Traditional Irish Songbook** (Public Domain)
+11. **Traditional Irish Songbook** (Public Domain)
    - **Why Firish?** Short, memorizable lines—ideal for Firish Singing Register (high opacity with rhyme)
    - Songs: "The Parting Glass", "Rocky Road to Dublin", "Londonderry Air"
    - **Rights**: Traditional/Public domain

@@ -3,7 +3,7 @@
 > *A playful code-switching language and argot for parents or Irish people traveling abroad*
 
   
-**Purpose**: An experimental cryptolect preserving colloquial multilingual patterns through computational linguistics
+**Purpose**: An experimental cryptolect preserving colloquial multilingual patterns in daily use but not documented or codified. 
 
 ## What is Firish?
 

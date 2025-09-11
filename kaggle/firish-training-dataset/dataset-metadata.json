@@ -1,0 +1,22 @@
+{
+  "title": "Firish Language Training Dataset",
+  "id": "firish-training", 
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0"
+    }
+  ],
+  "keywords": [
+    "nlp",
+    "translation", 
+    "multilingual",
+    "irish",
+    "french",
+    "english",
+    "language-model",
+    "t5",
+    "fine-tuning"
+  ],
+  "collaborators": [],
+  "data": []
+}

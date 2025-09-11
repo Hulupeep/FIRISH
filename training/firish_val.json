@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "input_text": "translate to firish [family, planning, medium]: We need groceries for the weekend",
+      "target_text": "Nous avons besoin groceries-ach pour le weekend-achta"
+    },
+    {
+      "input_text": "translate to firish [adults, appointment planning, high]: Meeting at three with the accountant",
+      "target_text": "Rendezvous à trois avec accountant-allachta"
+    },
+    {
+      "input_text": "translate to firish [family, simple, low]: Good morning everyone",
+      "target_text": "Bonjour tout le monde"
+    },
+    {
+      "input_text": "translate to firish [family, meal planning, medium]: What are we cooking tonight? Pasta or rice?",
+      "target_text": "Qu'est-ce que nous cooking-ach ce soir? Pasta ou rice-allachta?"
+    },
+    {
+      "input_text": "translate to firish [family, guests present, high]: Are you ready for breakfast?",
+      "target_text": "An bhfuil tú prêt-ach pour petit-déjeuner-allachta?"
+    },
+    {
+      "input_text": "translate to firish [restaurant, strangers, medium]: The bill is expensive",
+      "target_text": "Le bil-allachta est cher"
+    },
+    {
+      "input_text": "translate to firish [morning, child nearby, low]: Are they awake? School starts soon",
+      "target_text": "An bhfuil siad awake-ach encore? School-allachta commence bientôt"
+    }
+  ]
+}

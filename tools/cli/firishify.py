@@ -119,23 +119,103 @@ class FirishConverter:
         if normalized in self.lexicon:
             entry = self.lexicon[normalized]
             
-            # Use opacity to select language based on EASE algorithm
+            # Authentic Firish: Strategic language selection based on concealment needs
+            import random
+            random.seed(hash(normalized))
+            
+            # Irish particles and conjunctions ALWAYS stay Irish
+            if entry.pos in ['particle', 'conjunction']:
+                return entry.irish
+            
+            # Check if French equivalent is well-known and easy
+            well_known_french = ['cher', 'finis', 'secret', 'retard', 'rendezvous', 'moins', 'plus']
+            if entry.french.lower() in well_known_french:
+                return entry.french
+                
+            # Strategic selection based on opacity and concealment needs
             if opacity == 'low':
-                # Low opacity: prefer English (most familiar)
-                return entry.english if entry.english != normalized else entry.irish
-            elif opacity == 'mid': 
-                # Mid opacity: prefer French (intermediate complexity)
-                return entry.french if entry.french and entry.french != normalized else entry.irish
+                # Prefer known languages, light English concealment
+                if entry.french and len(entry.french) <= 6:  # Short French preferred
+                    return entry.french
+                elif entry.irish and entry.pos in ['noun', 'verb']:  # Irish for key concepts
+                    return entry.irish
+                else:
+                    return self.add_obfuscation_suffix(entry.english, 'low')
+                    
+            elif opacity == 'mid':
+                # Balanced approach: French for sophistication, Irish for structure, English+suffix for concealment
+                if entry.french and len(entry.french) <= 8:  # Medium French words
+                    return entry.french
+                elif entry.irish and entry.pos in ['verb', 'adjective']:
+                    return entry.irish
+                else:
+                    return self.add_obfuscation_suffix(entry.english, 'mid')
+                    
             elif opacity == 'high':
-                # High opacity: prefer Irish (maximum complexity)
-                return entry.irish if entry.irish and entry.irish != normalized else entry.french
+                # Heavy Irish/French, minimal concealed English
+                if entry.irish:
+                    return entry.irish
+                elif entry.french:
+                    return entry.french
+                else:
+                    return self.add_obfuscation_suffix(entry.english, 'high')
                 
         # Handle Irish particles - always use them for opacity
         if normalized in self.irish_particles:
             return self.irish_particles[normalized]
             
-        # Fallback: return original word if not in lexicon
-        return word
+        # Fallback: Use common French/Irish equivalents or add obfuscation suffix
+        # Common word mappings for authentic Firish
+        common_mappings = {
+            'the': 'le',  # French article
+            'is': 'est',  # French verb
+            'are': 'sont',  # French verb  
+            'we': 'nous',  # French pronoun
+            'for': 'pour',  # French preposition
+            'expensive': 'cher',  # Well-known French
+            'late': 'en retard',  # Well-known French phrase
+            'need': 'besoin',  # French noun
+            'up': 'sus'  # Irish/French mix
+        }
+        
+        if normalized in common_mappings:
+            return common_mappings[normalized]
+            
+        # Apply obfuscation suffix to remaining English words
+        return self.add_obfuscation_suffix(word, opacity)
+    
+    def add_obfuscation_suffix(self, word: str, opacity: str) -> str:
+        """Add Irish obfuscation suffixes to English words ONLY for concealment"""
+        # Only add suffixes to English words that need concealment
+        # Common/professional terms get different treatment
+        
+        professional_terms = ['accountant', 'appointment', 'meeting', 'manager', 'doctor']
+        compound_words = ['hurryup', 'pickup', 'checkout', 'weekend', 'homework']
+        
+        if word.lower() in compound_words or any(comp in word.lower() for comp in ['up', 'out', 'work']):
+            return f"{word}-achta"  # Compound words get -achta
+        
+        if word.lower() in professional_terms:
+            return f"{word}-allachta"  # Professional terms need heavy concealment
+            
+        if opacity == 'low':
+            # Light concealment - only when necessary
+            if len(word) > 7:  # Longer words more noticeable
+                return f"{word}-ach"
+        elif opacity == 'mid':
+            # Standard concealment pattern
+            if len(word) > 6:
+                return f"{word}-allachta"
+            else:
+                return f"{word}-ach"
+        elif opacity == 'high':
+            # Heavy concealment for most English words
+            if len(word) > 5:
+                return f"{word}-allachta"
+            else:
+                return f"{word}-ach"
+        
+        return word  # Return unchanged if no concealment needed
     
     def handle_questions(self, text: str, opacity: str) -> str:
         """Handle question formation using Irish question particles"""

@@ -33,11 +33,145 @@ We now offer both **rule-based** and **AI-powered** Firish translation:
 - **LLM-based**: Fine-tuned T5-small model trained on authentic Firish patterns
 - **Comparison tool**: Side-by-side testing of both approaches
 
-### Quick Translation Examples
+## 💬 Firish in Action
+
+### 1. Daily Usage Examples
+
+**Family Coordination**:
+```
+English: "Are you ready for breakfast?"
+Firish:  "An bhfuil tú ready pour breakfast?"
+Context: [parents, morning rush, low opacity]
+```
+
+**Quick Privacy**:
+```
+English: "The bill is too expensive"
+Firish:  "Le bil-allachta est trop cher"
+Context: [couple, restaurant, strangers nearby, high opacity]
+```
+
+**Travel Communication**:
+```
+English: "Let's go home now"
+Firish:  "Téigimís home anois"
+Context: [Irish couple abroad, coordinating, medium opacity]
+```
+
+### 2. Literary Translation - Pride & Prejudice Opening
+
+**Original** (Jane Austen, 1813):
+> "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+
+**Firish Translation**:
+> "Tá sé a vérité universellement cinte, que a fear solo avec airgead ag bhaint leat mariage-ach."
+
+*Breaking down the EASE choices*:
+- `Tá sé` (Irish copula) - maintains Irish grammatical backbone
+- `vérité universellement` (French) - philosophical concepts lean French
+- `cinte` (Irish "acknowledged") - keeps Celtic substrate  
+- `fear solo` (man single) - mixed Irish/romantic languages
+- `airgead` (Irish "money/fortune") - economic terms often Irish
+- `mariage-ach` (marriage + English suffix) - obfuscated for social discretion
+
+### 3. Real-World Scenario: Irish Couple in London
+
+**Setting**: Aoife and Cian, Irish couple living in London, having lunch at a busy restaurant. They want to discuss splitting the bill without drawing attention.
+
+```
+Aoife: "An bhfuil tú payer-ach half?"
+       (Are you paying half?)
+       
+Cian:  "Oui, but le service-allachta est rubbish."
+       (Yes, but the service is rubbish.)
+       
+Aoife: "Ní worth-ach full tip mar sin."
+       (Not worth full tip then.)
+       
+Cian:  "Exactly. Fifteen percent max-ach."
+       (Exactly. Fifteen percent max.)
+```
+
+**Why this works**:
+- Quick coordination without rudeness to staff
+- Irish particles (`an bhfuil`, `ní`) maintain cultural identity
+- French/English mixing provides opacity 
+- Financial terms use strategic obfuscation (`payer-ach`, `service-allachta`)
+
+### 4. AI Translation Comparison
 
 **English**: "We need to go shopping"
 - **Rule-based**: `nous besoin à aller shopping-ach`
 - **LLM-based**: Currently in training - [contribute more examples](https://github.com/issues)
+
+## 📚 Literary Translation Goals
+
+Our long-term objective is to translate complete classic works into Firish, preserving both the literary merit and demonstrating the full expressive range of code-switching. Target publications:
+
+### Public Domain Classics Selected for Firish Translation:
+
+1. **Pride and Prejudice** — Jane Austen (1813)
+   - **Why Firish?** Snappy dialogue + social subtext = ideal for EASE/opacity dials in courtship, family logistics, and manners
+   - **Rights**: Public domain worldwide
+
+2. **Ulysses** — James Joyce (1922)  
+   - **Why Firish?** Already a multilingual playground; Firish can annotate with low→high opacity layers and show code-switching in action. Start with Calypso, Hades, Cyclops episodes
+   - **Rights**: Public domain in EU (Joyce d. 1941)
+
+3. **Gulliver's Travels** — Jonathan Swift (1726)
+   - **Why Firish?** Satire and invented registers dovetail with Firish's cryptolect vibe. Great for school-friendly abridgement
+   - **Rights**: Public domain worldwide
+
+4. **Dracula** — Bram Stoker (1897)
+   - **Why Firish?** Epistolary format = natural for Firish emails/notes/logs; easy to showcase register shifts (formal/informal/urgent)
+   - **Rights**: Public domain worldwide
+
+5. **The Picture of Dorian Gray** — Oscar Wilde (1890)
+   - **Why Firish?** Wit, aphorisms, salon banter—perfect for demonstrating elegant French verbs + Irish particles with English SVO
+   - **Rights**: Public domain worldwide
+
+### Extended Literary Corpus:
+
+6. **Les Misérables** — Victor Hugo (1862)
+   - **Why Firish?** Lets you lean French-forward (FR verbs/nouns) while keeping Irish particles. Choose dialogue-heavy extracts (Valjean/Cosette/Javert confrontations)
+   - **Rights**: Public domain worldwide
+
+7. **Candide** — Voltaire (1759)
+   - **Why Firish?** Satirical travelogue—great to demo quick, punchy Firish with EASE substitutions at speed
+   - **Rights**: Public domain worldwide
+
+8. **The Playboy of the Western World & Riders to the Sea** — J.M. Synge (1907/1904)
+   - **Why Firish?** Hiberno-English rhythm = natural substrate for Firish prosody; short plays pilot translation conventions quickly
+   - **Rights**: Public domain worldwide (Synge d. 1909)
+
+9. **Traditional Irish Songbook** (Public Domain)
+   - **Why Firish?** Short, memorizable lines—ideal for Firish Singing Register (high opacity with rhyme)
+   - Songs: "The Parting Glass", "Rocky Road to Dublin", "Londonderry Air"
+   - **Rights**: Traditional/Public domain
+
+### 🎯 Model Objectives & Publication Goals:
+
+1. **Large-Scale Translation Capability**
+   - Train models capable of translating entire novels with consistent Firish patterns
+   - Maintain literary quality while preserving EASE algorithm principles
+   - Handle different text genres (dialogue, narrative, poetry, technical prose)
+
+2. **Free Cultural Preservation**
+   - Publish all translations online with open Creative Commons licensing
+   - Create searchable digital archive of Firish literature
+   - Provide educational resources for language learning
+
+3. **Commercial Accessibility** 
+   - Offer professional print editions via Amazon and other platforms
+   - Generate revenue to fund continued model development and training
+   - Make Firish literature accessible in multiple formats (digital, print, audio)
+
+4. **Academic & Research Applications**
+   - Demonstrate computational approaches to cryptolect preservation
+   - Provide corpus for code-switching research and analysis
+   - Establish Firish as a case study in systematic conlang development
+
+**Publication Plan**: Translate systematically, publish freely online first, then offer curated print collections for accessibility, preservation, and sustainable development funding.
 
 ## Language Features
 

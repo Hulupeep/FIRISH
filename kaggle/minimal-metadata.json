@@ -1,0 +1,13 @@
+{
+  "id": "colmbyrne/firish-minimal",
+  "title": "Firish Minimal",
+  "code_file": "firish-minimal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

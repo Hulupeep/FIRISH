@@ -1,0 +1,13 @@
+{
+  "id": "colmbyrne/firish-t5-simple",
+  "title": "Firish T5 Simple Training",
+  "code_file": "firish-t5-simple.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["colmbyrne/firish-training"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

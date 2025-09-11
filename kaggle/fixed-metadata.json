@@ -1,0 +1,13 @@
+{
+  "id": "colmbyrne/firish-fixed",
+  "title": "Firish Fixed",
+  "code_file": "firish-fixed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

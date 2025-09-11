@@ -22,6 +22,7 @@ This bridges **descriptive linguistics** (how people actually mix languages) wit
 Firish serves dual purposes:
 1. **Practical**: A **playful school-yard language** that mixes English, French, and Irish for family coordination and light privacy
 2. **Research**: A **linguistic preservation experiment** - can we capture and formalize the intuitive code-switching patterns that emerge naturally in multilingual communities?
+3. 2. **Education**: A **way to get kids involved in language evolution** - get kids to help develop this conlang at the same learn the root languages and the complexity in applying it for nueral plasticity (uh, get smarter). This will be a web app where they can contribute to the language. 
 
 The **EASE algorithm** (Easiest Accessible Selection with Enhanced opacity) represents our attempt to codify the unconscious decision-making process multilingual speakers use when code-switching for both clarity and discretion.
 

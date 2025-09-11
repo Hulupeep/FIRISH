@@ -2,7 +2,7 @@
 
 > *A playful code-switching language and argot for parents or Irish people traveling abroad*
 
-**Created by**: Colm Byrne  
+  
 **Purpose**: An experimental cryptolect preserving colloquial multilingual patterns through computational linguistics
 
 ## What is Firish?

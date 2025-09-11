@@ -7,7 +7,7 @@
 
 ## What is Firish?
 
-Firish is a constructed language (conlang) that emerged from the natural code-switching patterns used by multilingual families, particularly those with English, French, and Irish (Gaeilge) backgrounds. This conlang is in daily use in Irish homes and abroad but isn't well defined or documented. This project represents an attempt to **codify colloquial this use of language into a formal cryptolect for preservation and systematic study**.
+Firish is a constructed language (conlang) that emerged from the natural code-switching patterns used by multilingual families, particularly those with English, French, and Irish (Gaeilge) backgrounds. This conlang is in daily use in Irish homes and abroad but isn't well defined or documented. It's used for private conversations in public and at home to talk about sensitive topics (kids, news ) without revealing to others.  This project represents an attempt to **codify colloquial this use of language into a formal cryptolect for preservation and systematic study**.
 
 **The Core Idea**: Take the spontaneous, playful language-mixing that happens naturally in multilingual households and traveling communities, then create:
 - 🧠 **Algorithmic rules** for systematic generation  
